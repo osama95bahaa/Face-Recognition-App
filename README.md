@@ -1,13 +1,14 @@
 # Face-Recognition-App
 
 To run the project:
- - Clone the repo 
+ 1. Clone the repo 
  
+ 2.
  - Navigate to facerecognitionapp from cmd
  - Run   npm install
  - Run   npm start
  
- 
+ 3.
  - Navigate to facerecognitionapp-api from cmd
  - Run   npm install
  - Run   npm start
