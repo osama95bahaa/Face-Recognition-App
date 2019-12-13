@@ -19,6 +19,6 @@
   "devDependencies": {
     "install": "^0.12.2",
     "nodemon": "^1.18.9",
-    "npm": "^6.5.0"
+    "npm": "^6.13.4"
   }
 }
